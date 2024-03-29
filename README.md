@@ -14,3 +14,6 @@ git clone <repo-link>
 ```
 python calculate_age_app.py
 ```
+## Demo
+![EnterAge](https://github.com/MohammadYaserAzrak/CalculateAgeApp/assets/110301018/9084d381-e50a-4ee4-89bc-619aa393d4b1)
+![AgeDetails](https://github.com/MohammadYaserAzrak/CalculateAgeApp/assets/110301018/c353637f-8711-4405-bcdc-bc7860978791)
